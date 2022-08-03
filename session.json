@@ -20,7 +20,7 @@
         "data": "7k4LlbV9WNBsbRCa2OeLA6sAalU//OPDqoKcvHkiLzk="
       }
     },
-    "signedPreKey": {
+    "signedPeKey": {
       "keyPair": {
         "private": {
           "type": "Buffer",
@@ -42,7 +42,7 @@
     "nextPreKeyId": 32,
     "firstUnuploadedPreKeyId": 32,
     "serverHasPreKeys": true,
-    "account": {
+    "account": 
       "details": "COL29dYHEJPtv5YGGA4=",
       "accountSignatureKey": "WkzacA3BUcp9vlMG2cfkNutcjDg+2PJZFGaACfrl5EQ=",
       "accountSignature": "837iQUWcmjoHX8nyBdX7NetdGirAzAEWY0rCBbbc24cK6qBDMTGUF3HZDVxHGHUJLbMT7TnISHZ8/nSFG0A6CQ==",
